@@ -1,6 +1,6 @@
 ## vite-microfrontends
 
-*** Vite React Microfrontends showcase ***
+** Vite React Microfrontends showcase **
 
 ### Terminal 1 - Host Container
 cd container
